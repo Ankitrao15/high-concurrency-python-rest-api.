@@ -1,4 +1,4 @@
-# High-Concurrency Python REST API
+* High-Concurrency Python REST API
 
 [![Tests](https://github.com/YOUR-USERNAME/high-concurrency-python-rest-api/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR-USERNAME/high-concurrency-python-rest-api/actions/workflows/tests.yml)
 
